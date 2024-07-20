@@ -1,6 +1,6 @@
 # Despegar interview challenge (back-end)
 
-Developed in Node.js and Express.js. This repo uses Node.js version 10.15.1.
+Despegar interview challenge developed in Node.js and Express.js. This repo uses Node.js version 10.15.1.
 
 **1.** Clone the repo:
 
