@@ -1,21 +1,21 @@
-# Ejercicio de Despegar.com (back-end)
+# Despegar.com interview challenge (back-end)
 
-Back-end desarrollado en Node.js y Express correspondiente al ejercicio de Despegar.com. Este repo usa la versión 10.15.1 de Node.js.
+Developed in Node.js and Express.js. This repo uses Node.js version 10.15.1.
 
-**1.** Clonar el repo:
+**1.** Clone the repo:
 
 ```
-$ git clone git@github.com:gicanas94/ejercicio-despegar-back.git
-$ cd ejercicio-despegar-back
+$ git clone git@github.com:gicanas94/despegar-challenge-be.git
+$ cd despegar-challenge-be
 ```
 
-**2.** Instalar dependencias:
+**2.** Install dependencies:
 
 ```
 $ npm install
 ```
 
-**3.** Ejecutar la aplicación:
+**3.** Run the application:
 
 ```
 $ npm run dev
